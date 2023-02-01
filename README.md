@@ -11,16 +11,22 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
 #### Certs achieved:
 
 <div>
-    <img width="145px" alt="aws-certified-cloud-practitioner" src="./images/aws-certified-cloud-practitioner.png" />
-    <img width="145px" alt="aws-certified-developer-associate" src="./images/aws-certified-developer-associate.png" />
-    <img width="145px" alt="aws-certified-solutions-architect-associate" src="./images/aws-certified-solutions-architect-associate.png" />
+    <img width="120px" alt="aws-certified-cloud-practitioner" src="./images/aws-certified-cloud-practitioner.png" />
+    <img width="120px" alt="aws-certified-developer-associate" src="./images/aws-certified-developer-associate.png" />
+    <img width="120px" alt="aws-certified-solutions-architect-associate" src="./images/aws-certified-solutions-architect-associate.png" />
 </div>
 
 #### Check out my github recent status:
 
 <div>
     <a href="https://github.com/tiagopala">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagopala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=tiagopala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+
+<div>
+    <a href="https://github.com/tiagopala">
+        <img height="150px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopala&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
 </div>
 
