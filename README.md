@@ -8,8 +8,6 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
 - :blue_book: I'm .NET specialist focused in developing cloud native apps
 - :cloud: 3 times AWS Certified
 
----
-
 #### Certs achieved:
 
 <div>
