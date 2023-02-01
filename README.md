@@ -5,7 +5,7 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
 #### Here’s something about me:
 
 - :bank: I'm currently working as a software engineer for a banking institution
-- :blue_book: I'm .NET specialist focused in developing cloud native apps
+- :blue_book: I'm a .NET specialist focused in developing cloud native apps
 - :cloud: 3 times AWS Certified
 
 #### Certs achieved:
@@ -16,7 +16,7 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
     <img width="120px" alt="aws-certified-solutions-architect-associate" src="./images/aws-certified-solutions-architect-associate.png" />
 </div>
 
-#### Check out my github recent status:
+#### Check out my github recent stats:
 
 <div>
     <a href="https://github.com/tiagopala">
