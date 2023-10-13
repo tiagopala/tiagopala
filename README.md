@@ -4,7 +4,7 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
 
 #### Here’s something about me:
 
-- :bank: I'm currently working as a software engineer for a banking institution
+- :bank: I'm currently working as a software engineer specialist for a banking institution
 - :blue_book: I'm a .NET specialist focused in developing cloud native apps
 - :cloud: 3 times AWS Certified
 
