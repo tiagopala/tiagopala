@@ -18,11 +18,14 @@ My name is Tiago Pala and I’m just a developer trying to impact the world by p
 
 #### Check out my github recent stats:
 
+
+<!--
 <div>
     <a href="https://github.com/tiagopala">
         <img width="350px" src="https://github-readme-stats.vercel.app/api?username=tiagopala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
 </div>
+-->
 
 <div>
     <a href="https://github.com/tiagopala">
